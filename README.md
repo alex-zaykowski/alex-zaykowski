@@ -5,6 +5,8 @@ I'm always down to talk about music, movies, or some new technology/framework th
 
 🌱 React, Three.js, Node.js
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-zaykowski&layout=compact)](https://github.com/alex-zaykowski/github-readme-stats)
+
 🔭 [Soccer-JS](https://github.com/alex-zaykowski/Soccer-JS), [Job Locator](https://github.com/alex-zaykowski/REST_API)
 <!--
 **alex-zaykowski/alex-zaykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
