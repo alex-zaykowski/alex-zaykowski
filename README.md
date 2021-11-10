@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-zaykowski)](https://github.com/alex-zaykowski/github-readme-stats)
 I'm currently finishing up my CS degree in upstate NY. Check out my website (constantly a work in progress) or stick around a look through my repos. 
 
 I'm always down to talk about music, movies, or some new technology/framework that just came out. Feel free to reach out to me if you want.
