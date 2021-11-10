@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-zaykowski)](https://github.com/alex-zaykowski/github-readme-stats)
 I'm currently finishing up my CS degree in upstate NY. Check out my website (constantly a work in progress) or stick around a look through my repos. 
 
 I'm always down to talk about music, movies, or some new technology/framework that just came out. Feel free to reach out to me if you want.
@@ -8,7 +7,7 @@ I'm always down to talk about music, movies, or some new technology/framework th
 
 🔭 [Soccer-JS](https://github.com/alex-zaykowski/Soccer-JS), [Job Locator](https://github.com/alex-zaykowski/REST_API)
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-zaykowski&show_icons=true&theme=radical)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-zaykowski)](https://github.com/alex-zaykowski/github-readme-stats)
 <!--
 **alex-zaykowski/alex-zaykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
