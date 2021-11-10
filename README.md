@@ -6,8 +6,6 @@ I'm always down to talk about music, movies, or some new technology/framework th
 🌱 React, Three.js, Node.js
 
 🔭 [Soccer-JS](https://github.com/alex-zaykowski/Soccer-JS), [Job Locator](https://github.com/alex-zaykowski/REST_API)
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-zaykowski)](https://github.com/alex-zaykowski/github-readme-stats)
 <!--
 **alex-zaykowski/alex-zaykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
