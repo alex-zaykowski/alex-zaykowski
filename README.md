@@ -1,11 +1,7 @@
 ### Hey 👋
-I'm currently finishing up my CS degree in upstate NY. Check out my website (constantly a work in progress) or stick around a look through my repos. 
+I'm Alex and this is my github. It's a little sparce but I like to keep various side projects on here. My most recent are a workout tracker app and a tiktok video generator. You can see both in the links below.
 
-I'm always down to talk about music, movies, or some new technology/framework that just came out. Feel free to reach out to me if you want.
-
-🌱 React, Three.js, Node.js
-
-🔭 [Soccer-JS](https://github.com/alex-zaykowski/Soccer-JS), [Job Locator](https://github.com/alex-zaykowski/REST_API)
+🔭 [Workout Tracker](https://github.com/alex-zaykowski/workout-tracker), [TikTok Video Generator](https://github.com/alex-zaykowski/shorterer)
 <!--
 **alex-zaykowski/alex-zaykowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
